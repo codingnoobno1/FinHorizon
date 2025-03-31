@@ -1,0 +1,5 @@
+path: D:/New folder (3)/yolo/dataset  
+train: D:/New folder (3)/yolo/dataset/images/train  
+val: D:/New folder (3)/yolo/dataset/images/val  
+nc: 1  
+names: ['face']  

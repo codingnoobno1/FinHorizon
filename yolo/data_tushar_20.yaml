@@ -1,0 +1,6 @@
+names:
+- tushar_20
+nc: 1
+path: D:\New folder (3)\yolo
+train: D:\New folder (3)\yolo\dataset\images\train\tushar_20
+val: D:\New folder (3)\yolo\dataset\images\val\tushar_20
